@@ -2,7 +2,7 @@
 
 
 Дан датасет с набором данных Samsung Human Activity Recognition.
-Gо ссылке https://drive.google.com/drive/u/0/folders/1yrWAo_RcJbpfOoxrSYyxf1oEbxt8NYK_.
+По ссылке https://drive.google.com/drive/u/0/folders/1yrWAo_RcJbpfOoxrSYyxf1oEbxt8NYK_.
 Данные поступают с акселерометров и гироскопов мобильных телефонов Samsung Galaxy S3, также известен вид активности человека с телефоном в кармане – ходил ли он, стоял, лежал, сидел или шел вверх/вниз по лестнице.
 Имеющиеся метки соответствуют:
 
